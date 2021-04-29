@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dawncloack
+- 👀 I’m interested in taking a becoming an embedded systems engineer.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on anything involving PICs and microcontrollers, specially close to the metal.
+- 📫 How to reach me: lispandfashion@gmail.com
